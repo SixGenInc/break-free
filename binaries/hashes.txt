@@ -1,0 +1,14 @@
+MD5
+73c44a988639d8c4df967e1ef7125c6f  break_free.elf
+0e70dcdccc8b40d862c4f4f5bfec0c27  break_free.exe
+7b7bc4a7386b6dc09ae669fee09b03ad  break_free.macho
+
+SHA1
+1866f1737ec487a03bead5243e076db3b8eac57b  break_free.elf
+359a269f0255ba7092e07f1aca81773f02bed610  break_free.exe
+cfa47ac9daf3ed7755fb6a71e72e314ab607301e  break_free.macho
+
+SHA256
+4c9ad3fe423cf120d8ac28061549a07485f9cf625b6a24995a9894b435503031  break_free.elf
+4e34acb7b8e2bbe3e65b758b25e2e4c336880b5ebb7e28e880d940277006149e  break_free.exe
+c3f0adc33b29f3a68a88bea6d2c06add4e8d94acb1da862a9c5ea62c50c03578  break_free.macho
